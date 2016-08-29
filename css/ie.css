@@ -1,0 +1,16 @@
+@media(-ms-high-contrast: active), (-ms-high-contrast: none) {
+	#message-error{
+	    margin: -40px 0 0 0;
+	}
+	.form-group label {
+	    top: 59px;
+	}
+	.tab-content .row div{
+		background: url(../images/img-back.png) no-repeat;
+		background-size: 100% auto;
+	}
+}
+
+
+
+
