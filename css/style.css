@@ -261,7 +261,7 @@ figcaption span{
 	font-weight: 300 !important;
 	font-size: 50px !important;
 	position: relative;
-	height: 48px !important
+	height: 40px !important
 }
 .skills .row{
 	margin-top: 85px;
@@ -276,7 +276,7 @@ figcaption span{
     display: block;
     right: 91px;
     font-size: 34px;
-    top: 59px;
+    top: 53px;
     color: #49536c;
 }
 
